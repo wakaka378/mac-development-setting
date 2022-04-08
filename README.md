@@ -1,2 +1,2 @@
 # vscode-setting
-vscode 配置
+个人 vscode 配置
