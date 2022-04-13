@@ -260,4 +260,29 @@
   "[vue]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
   },
+  "cSpell.userWords": [
+    "gebilaofan",
+    "gojs",
+    "nums",
+    "pnpm",
+    "uino",
+    "yalc"
+  ],
+  "leetcode.defaultLanguage": "typescript",
+  "leetcode.editor.shortcuts": [
+    "submit",
+    "test",
+    "star"
+  ],
+  "leetcode.endpoint": "leetcode-cn",
+  "leetcode.filePath": {
+    "default": {
+      "folder": "src/${difficulty}/",   // dir path
+      "filename": "${id}.${kebab-case-name}.${difficulty}.${ext}"
+    }
+  },
+  "leetcode.workspaceFolder": "/Users/fanliu/code/github/Leet-Code",    // file path
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
 }
