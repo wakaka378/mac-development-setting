@@ -23,3 +23,13 @@
 
 
 ## `oh-my-zsh`
+   [`on-my-zsh`](https://github.com/wakaka378/mac-development-setting/blob/main/ohMyZsh/ohMyZsh.json)
+  <p align="center"><samp>Preview</samp></p>
+  <br/>
+  
+  <p align="center">
+  <img width="600 alt="image" src="https://user-images.githubusercontent.com/46524158/164021297-5de58e57-e451-4b76-8c19-201f3136c6ac.gif">
+                                                                                                                                                                                                                                                                   
+<sub><samp> ZSH_THEME | [spaceship](https://github.com/spaceship-prompt/spaceship-prompt) <br/> plugins | git zsh-autosuggestions  zsh-completions zsh-syntax-highlighting <br> 自动补全 | [fig](https://github.com/withfig/autocomplete)</samp></sub>                                    
+                                            
+
