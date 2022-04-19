@@ -23,7 +23,7 @@
   "window.nativeTabs": false, // this is great, macOS only
   "window.titleBarStyle": "custom",
   "workbench.activityBar.visible": true,
-  "workbench.colorTheme": "Vitesse Light",
+  "workbench.colorTheme": "Snazzy Operator",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -31,7 +31,7 @@
   "workbench.editor.limit.value": 5,
   "workbench.iconTheme": "file-icons",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Vitesse Dark",
+  "workbench.preferredDarkColorTheme": "Snazzy Operator",
   "workbench.preferredLightColorTheme": "Vitesse Light",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.sideBar.location": "left",
@@ -48,7 +48,6 @@
   "git.enableSmartCommit": true,
   "git.untrackedChanges": "separate",
   "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.fontWeight": "550",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
   "scm.diffDecorationsGutterWidth": 2,
@@ -222,10 +221,8 @@
   "audioCues.lineHasInlineSuggestion": "off",
   "audioCues.onDebugBreak": "off",
   "editor.fontSize": 14,
-  "debug.console.fontFamily": " Fira Code",
-  "debug.console.fontSize": 13,
-  "terminal.integrated.fontFamily": "monospace",
-  "terminal.integrated.fontSize": 13.5,
+  "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
+  "terminal.integrated.fontSize": 12,
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.profiles.linux": {
@@ -285,4 +282,12 @@
   "[typescript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
+  "leetcode.hint.configWebviewMarkdown": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "code-runner.runInTerminal": true,
+  "terminal.integrated.shellIntegration.showWelcome": false,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.external.windowsExec": "",
 }
