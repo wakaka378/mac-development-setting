@@ -23,7 +23,8 @@
 
 
 ## `oh-my-zsh`
-   [`on-my-zsh`](https://github.com/wakaka378/mac-development-setting/blob/main/ohMyZsh/ohMyZsh.json)
+   [`on-my-zsh`](https://github.com/wakaka378/mac-development-setting/blob/main/ohMyZsh/ohMyZsh.json)<br/>
+   [`zshrc`](https://github.com/wakaka378/mac-development-setting/blob/main/ohMyZsh/.zshrc)
   <p align="center"><samp>Preview</samp></p>
   <br/>
   
