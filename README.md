@@ -31,6 +31,6 @@
   <p align="center">
   <img width="600 alt="image" src="https://user-images.githubusercontent.com/46524158/164021297-5de58e57-e451-4b76-8c19-201f3136c6ac.gif">
                                                                                                                                                                                                                                                                    
-<sub><samp> ZSH_THEME | [spaceship](https://github.com/spaceship-prompt/spaceship-prompt) <br/> plugins &nbsp;&nbsp;| git zsh-autosuggestions  zsh-completions zsh-syntax-highlighting <br> 自动补全 &nbsp;&nbsp;| [fig](https://github.com/withfig/autocomplete)</samp></sub>                                    
+<sub><samp> ZSH_THEME | [spaceship](https://github.com/spaceship-prompt/spaceship-prompt) <br/> plugins &nbsp;&nbsp;| git zsh-autosuggestions  zsh-completions zsh-syntax-highlighting <br> 自动补全&nbsp;&nbsp;&nbsp;| [fig](https://github.com/withfig/autocomplete) <br/> font &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| [powerline](https://github.com/powerline/powerline)</samp></sub>                                    
                                             
 
