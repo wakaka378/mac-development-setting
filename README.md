@@ -7,15 +7,13 @@
 <p align="center"><samp>Preview</samp></p>
 
 <p align="center">
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/46524158/164018236-03572d30-db19-4027-98f0-06fd65caac8e.png">
+
+  
+<img width="800" alt="image" style='border-radius:10px' src="https://user-images.githubusercontent.com/46524158/164584036-308a434a-346c-4e06-b23b-1a0573631708.gif">
 
 <br/>
 <br/>
 
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/46524158/164017576-102e9413-9667-4e71-a5a8-8add53405f27.png">
-<br/>
-<br/>
 
 
 <br>
