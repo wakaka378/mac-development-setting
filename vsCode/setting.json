@@ -23,7 +23,7 @@
   "window.nativeTabs": false, // this is great, macOS only
   "window.titleBarStyle": "custom",
   "workbench.activityBar.visible": true,
-  "workbench.colorTheme": "Snazzy Operator",
+  "workbench.colorTheme": "Vitesse Light",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
@@ -88,7 +88,6 @@
   "eslint.codeAction.showDocumentation": {
     "enable": true
   },
-  "eslint.quiet": true,
   "eslint.validate": [
     "javascript",
     "typescript",
@@ -154,8 +153,7 @@
   "volar.codeLens.pugTools": false,
   "volar.codeLens.scriptSetupTools": true,
   "volar.completion.preferredTagNameCase": "pascal",
-  "volar.takeOverMode.enabled": true,
-  "prettier.enable": false, // I only use Prettier for manually formatting
+  "volar.takeOverMode.enabled": true, // I only use Prettier for manually formatting
   "prettier.printWidth": 200,
   "prettier.semi": false,
   "prettier.singleQuote": true,
@@ -245,24 +243,22 @@
       "icon": "terminal-powershell"
     }
   },
-  "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
   "turboConsoleLog.includeFileNameAndLineNum": false,
   "turboConsoleLog.insertEnclosingClass": false,
   "turboConsoleLog.insertEnclosingFunction": false,
   "turboConsoleLog.logMessagePrefix": "",
   "turboConsoleLog.addSemicolonInTheEnd": true,
   "turboConsoleLog.delimiterInsideMessage": "~~~~",
-  "[vue]": {
-    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
-  },
   "cSpell.userWords": [
+    "cmdb",
+    "fanliu",
     "gebilaofan",
     "gojs",
+    "juejin",
     "nums",
     "pnpm",
     "uino",
+    "wakakak",
     "yalc"
   ],
   "leetcode.defaultLanguage": "typescript",
@@ -279,15 +275,37 @@
     }
   },
   "leetcode.workspaceFolder": "/Users/fanliu/code/github/Leet-Code",    // file path
-  "[typescript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-  },
   "leetcode.hint.configWebviewMarkdown": false,
-  "[yaml]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
-  },
   "code-runner.runInTerminal": true,
   "terminal.integrated.shellIntegration.showWelcome": false,
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.external.windowsExec": "",
+  "prettier.useEditorConfig": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "update.mode": "none",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "redhat.telemetry.enabled": false,
+  "git.ignoreMissingGitWarning": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "debug.javascript.autoAttachFilter": "disabled",
+  "[html]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "eslint.quiet": true,
 }
